@@ -6,6 +6,7 @@ let myTuple: [string, number, boolean] = ["Hello", 42, true];
 
 let arr: (string|boolean)[] = ["yes", true]
 
+//tuples have []
 let rgb: [number, number, number,number?]
 let rgba: [number, number, number,number?]
 rgb = [0,0,0]
